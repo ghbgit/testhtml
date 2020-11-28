@@ -26,8 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 # Header 1ghb
+g
 ## Header 2ghb
+gg
 ### Header 3ghb
+ggg
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
